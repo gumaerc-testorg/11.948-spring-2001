@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 750b3406-15ac-b201-d8fe-66f4315be220
 resourcetype: Document
 title: Searching Out the Lines
 uid: f4aeab2b-89c8-d17d-942e-b9ce35838b3e
