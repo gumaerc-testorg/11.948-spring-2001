@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides details on the course project and evaluation.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 44991dc8-e618-0f77-d393-37ffb82c6041
 ---
