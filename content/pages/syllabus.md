@@ -20,7 +20,7 @@ This workshop provides an introduction to urban environmental design and explore
 
 Students will work in a real neighborhood with real people on a real project, putting theory into practice and reflecting on insights gained in the process. We will study environmental and community history and devise designs for vacant land near a middle school in West Philadelphia within the context of planning for the larger community and watershed.
 
-The course is associated with the West Philadelphia Landscape Project (WPLP), a program that has integrated research, teaching, and community service since 1987. The [WPLP](http://web.mit.edu/wplp/) website has received millions of hits since 1996. The new WPLP website will be the principle locus of our collaboration with the school and community.
+The course is associated with the West Philadelphia Landscape Project (WPLP), a program that has integrated research, teaching, and community service since 1987. The {{% resource_link "9fef6b12-62b6-4e50-bd37-d26c8a40b878" "WPLP" %}} website has received millions of hits since 1996. The new WPLP website will be the principle locus of our collaboration with the school and community.
 
 Place
 -----
@@ -39,7 +39,7 @@ Develop a new, community-based, environmental curriculum for Sulzberger Middle S
 
 There will be one field trip to Philadelphia during the semester.
 
-For background on the project see the [WPLP](http://web.mit.edu/wplp/) website, especially the section on [Sulzberger Middle School](http://web.mit.edu/wplp/sms/) and summary of the [Mill Creek Project](http://web.mit.edu/wplp/sms/millc.htm).
+For background on the project see the {{% resource_link "9fef6b12-62b6-4e50-bd37-d26c8a40b878" "WPLP" %}} website, especially the section on {{% resource_link "4217c267-f433-4cab-9310-3a70b32e54f1" "Sulzberger Middle School" %}} and summary of the {{% resource_link "96b56c8d-26da-4b25-b0aa-1b1db1e08f6b" "Mill Creek Project" %}}.
 
 A knowledge of web-authoring and geographic information systems (GIS) is not a prerequisite this year, but is highly desirable.
 
